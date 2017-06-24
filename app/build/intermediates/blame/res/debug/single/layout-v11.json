@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

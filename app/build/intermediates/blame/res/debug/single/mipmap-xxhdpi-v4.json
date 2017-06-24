@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/goldstar.png",
+        "source": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/res/mipmap-xxhdpi/goldstar.png"
+    }
+]

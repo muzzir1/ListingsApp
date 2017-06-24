@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c7313da0d07375beea5ddf8273bb44d1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/63fb2658a73ed9ca1605379c1d2a8b18/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/00741e24bf6704574466e13272131f90/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5727c36692a6924f0bc3ee4bea54785f/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59a897c3ad196defdbdd21d8328031db/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f531b93af1830ee10419a2f35ae602c6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d7867bf66773d3114384d95c14f7957f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/98cd2497df964a391cf39494b29af538/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00a42cab1eae20491be590fd2ad5fd24/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/eb53dacf8dca4245400c6faf1545bb81/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cb13345af4af9c1b7393bea494d9bb53/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/62b9045a82d68f44ee66263e4dbf434d/AndroidManifest.xml:17:1-28:12
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:7:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c7313da0d07375beea5ddf8273bb44d1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c7313da0d07375beea5ddf8273bb44d1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/63fb2658a73ed9ca1605379c1d2a8b18/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/63fb2658a73ed9ca1605379c1d2a8b18/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/00741e24bf6704574466e13272131f90/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/00741e24bf6704574466e13272131f90/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59a897c3ad196defdbdd21d8328031db/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59a897c3ad196defdbdd21d8328031db/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f531b93af1830ee10419a2f35ae602c6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f531b93af1830ee10419a2f35ae602c6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d7867bf66773d3114384d95c14f7957f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d7867bf66773d3114384d95c14f7957f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/98cd2497df964a391cf39494b29af538/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/98cd2497df964a391cf39494b29af538/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00a42cab1eae20491be590fd2ad5fd24/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00a42cab1eae20491be590fd2ad5fd24/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/eb53dacf8dca4245400c6faf1545bb81/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/eb53dacf8dca4245400c6faf1545bb81/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cb13345af4af9c1b7393bea494d9bb53/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cb13345af4af9c1b7393bea494d9bb53/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/62b9045a82d68f44ee66263e4dbf434d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/62b9045a82d68f44ee66263e4dbf434d/AndroidManifest.xml:26:5-20
+	android:supportsRtl
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:8:42-87
+	android:icon
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:7:45-79
+	android:allowBackup
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:7:18-44
+	android:theme
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:9:36-67
+activity#com.example.muzzi.fullcontactapp.MainActivity
+ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:10:9-18:20
+	android:configChanges
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:12:13-74
+	android:theme
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:11:13-56
+	android:name
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:10:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c7313da0d07375beea5ddf8273bb44d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c7313da0d07375beea5ddf8273bb44d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/63fb2658a73ed9ca1605379c1d2a8b18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/63fb2658a73ed9ca1605379c1d2a8b18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/00741e24bf6704574466e13272131f90/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/00741e24bf6704574466e13272131f90/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5727c36692a6924f0bc3ee4bea54785f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5727c36692a6924f0bc3ee4bea54785f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59a897c3ad196defdbdd21d8328031db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59a897c3ad196defdbdd21d8328031db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f531b93af1830ee10419a2f35ae602c6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f531b93af1830ee10419a2f35ae602c6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d7867bf66773d3114384d95c14f7957f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d7867bf66773d3114384d95c14f7957f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/98cd2497df964a391cf39494b29af538/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/98cd2497df964a391cf39494b29af538/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00a42cab1eae20491be590fd2ad5fd24/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00a42cab1eae20491be590fd2ad5fd24/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/eb53dacf8dca4245400c6faf1545bb81/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/eb53dacf8dca4245400c6faf1545bb81/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cb13345af4af9c1b7393bea494d9bb53/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cb13345af4af9c1b7393bea494d9bb53/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/62b9045a82d68f44ee66263e4dbf434d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/62b9045a82d68f44ee66263e4dbf434d/AndroidManifest.xml:20:5-43
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muzzi/AndroidStudioProjects/fullcontactapp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/63fb2658a73ed9ca1605379c1d2a8b18/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/63fb2658a73ed9ca1605379c1d2a8b18/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/00741e24bf6704574466e13272131f90/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/00741e24bf6704574466e13272131f90/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5727c36692a6924f0bc3ee4bea54785f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5727c36692a6924f0bc3ee4bea54785f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59a897c3ad196defdbdd21d8328031db/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59a897c3ad196defdbdd21d8328031db/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f531b93af1830ee10419a2f35ae602c6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f531b93af1830ee10419a2f35ae602c6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d7867bf66773d3114384d95c14f7957f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d7867bf66773d3114384d95c14f7957f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/98cd2497df964a391cf39494b29af538/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/98cd2497df964a391cf39494b29af538/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00a42cab1eae20491be590fd2ad5fd24/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00a42cab1eae20491be590fd2ad5fd24/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/eb53dacf8dca4245400c6faf1545bb81/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/eb53dacf8dca4245400c6faf1545bb81/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cb13345af4af9c1b7393bea494d9bb53/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cb13345af4af9c1b7393bea494d9bb53/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/62b9045a82d68f44ee66263e4dbf434d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/62b9045a82d68f44ee66263e4dbf434d/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/AndroidManifest.xml:26:9-47

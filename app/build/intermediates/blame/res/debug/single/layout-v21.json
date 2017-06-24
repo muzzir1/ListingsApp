@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1ed21f0bc97a6119ab5155e29631b1a6/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

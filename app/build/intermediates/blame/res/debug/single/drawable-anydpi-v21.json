@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_black_24dp.xml",
+        "source": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/muzzi/AndroidStudioProjects/fullcontactapp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/muzzi/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aded2344fec5603f075af3b0e896ecb6/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]
